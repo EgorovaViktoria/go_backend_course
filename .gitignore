@@ -1,0 +1,12 @@
+# binaries
+*.exe
+*.out
+/bin/
+__debug_bin*
+
+# test
+*.test
+
+# IDE
+.idea/
+.vscode/
